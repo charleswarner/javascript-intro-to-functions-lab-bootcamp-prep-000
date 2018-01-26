@@ -22,7 +22,7 @@ if (string === string.toLowerCase()){
       return ('I can\'t hear you!');
    }
 
-  else if (string === string.isUppercase) {
+  else if (string === string.isUpperCase) {
     var upperCase = string.toUpperCase();
     return "Yes indeed";
   }
